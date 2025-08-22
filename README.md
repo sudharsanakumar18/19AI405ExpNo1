@@ -37,8 +37,8 @@
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
 
-<h4>Developed By: A.Lahari</h4>
-<h4>Register Number: 212223230111</h4>
+<h4>Developed By: SUDHARSANA KUMAR S R</h4>
+<h4>Register Number: 212223240162</h4>
 <h3>Program</h3>
 
 ```python
